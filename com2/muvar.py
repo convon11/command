@@ -1,3 +1,3 @@
 def  muvar_a():
-  a=(imput"")
+  a=(input"")
   print(a)
